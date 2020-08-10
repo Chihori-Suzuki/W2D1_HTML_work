@@ -1,18 +1,22 @@
 li{
-    color: rgb(81, 13, 145);
-    background-color: rgba(252, 185, 226);
-    /* border-width: 3px;
-    border-color: black;
-    border-style: dotted;
-     */
-    border-top: 2px solid black;
-    border-radius: 5px;
-    margin: 10px;
-    padding: 10px;
+    /* background-color: rgb(209, 238, 245); */
+    background-image: "./Sesame's Photo.JPG" ;   
+
+}
+div.Introduction{
+    border: solid 1px;
+    border-style: groove;
+    margin: initial;
+    padding: inherit;
+    text-align: center;
+    
 }
 
 body{
-    background-image: url(http://2.bp.blogspot.com/-ZX6czgJJK1A/T_fIv3htM6I/AAAAAAAAEIE/FgAXGVKMQ0k/s1600/Beautiful+Cats+Hd+Wallpapers_10.jpg);
+    background-image: url("Sesame's Photo.JPG") ;
     background-repeat: repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
+    color: rgb(240, 236, 243);
+    font-size: 200%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
